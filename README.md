@@ -1,14 +1,48 @@
-## RUST Practice
+# RUST Practice
 
 You'll find the RUST examples here alongside notes to understand RUST.
 
-### Rust Basics
+## RUST Basics
 
-`rust-basics` folder contains all the examples for RUST basics alongside the explanations. 
+`rust-basics` folder contains all the examples for RUST basics alongside the explanations including:
 
-It also explains the mutability, stack vs heap, ownership and borrowing & references concepts of RUST using examples.
+- numbers
+- strings
+- conditionals
+- loops
+- functions
+- struct
+- enum
+- error handling
 
-### Run the Project
+## RUST Jargon
+
+`rust-jargon` folder contains all the examples for RUST jargons alongside the explanations including:
+
+- mutability
+- stack vs heap 
+- ownership 
+- borrowing & references
+
+## RUST Advance
+
+`rust-advance` folder contains all the examples for RUST advance topics alongside the explanations including:
+
+- collections
+- vectors
+- iterators
+- hashmaps
+- strings, &str and slices
+- generics
+- traits
+- multithreading
+- macros
+- futures
+- async/await and tokio
+- lifetimes
+
+## Run the Project
+
 Use following commands to run the RUST program.
 
 ```shell
