@@ -47,5 +47,5 @@ Use following commands to run the RUST program.
 
 ```shell
 cd rust-basics
-cargo run
+cargo run --bin <filename>
 ```
